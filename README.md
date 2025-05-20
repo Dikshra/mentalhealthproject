@@ -1,12 +1,12 @@
 
 
 ## Description
-**Mood Detective** is a Python-based app built with **Tkinter** that helps you assess your mood through a quiz. The app asks a series of questions to detect your emotional state and offers personalized mental health tips based on the results. Additionally, the app provides a collection of **motivational mental health quotes** to brighten your day.
+**Mental Health  Detection** is a Python-based app built with **Tkinter** that helps you assess your mood through a quiz. The app asks a series of questions to detect your emotional state and offers personalized mental health tips based on the results. Additionally, the app provides a collection of **motivational mental health quotes** to brighten your day.
 
-This project is a great tool to help reflect on your mental health and start the conversation about mental wellness. Whether you’re feeling low or just curious, **Mood Detective** is here to guide you!
+This project is a great tool to help reflect on your mental health and start the conversation about mental wellness. Whether you’re feeling low or just curious, **Mentalhealthdetection** is here to guide you!
 
 ### Features
-- **Mood Detection Quiz**: A set of questions that assess your current mood.
+- **Quiz**: A set of questions that assess your current mood.
 - **Mental Health Tips**: Receive useful advice based on your mood.
 - **Motivational Quotes**: Get inspired by uplifting mental health quotes.
 
