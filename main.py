@@ -67,10 +67,10 @@ def show_main_menu(root):
     # Title Frame with Glow Effect
     title_frame = tk.Frame(root, bg="#2c3e50", padx=50, pady=40)
     title_frame.pack(fill="x")
-    tk.Label(title_frame, text="🧠 Mood Detective", font=("Roboto", 24, "bold"), fg="white", bg="#2c3e50").pack()
+    tk.Label(title_frame, text="🧠 Mental Health Detection", font=("Roboto", 24, "bold"), fg="white", bg="#2c3e50").pack()
 
     # Buttons with shiny and hover effects
-    tk.Button(root, text="Start Mood Detector 🎯", command=lambda: start_quiz(root),
+    tk.Button(root, text="Start Detection 🎯", command=lambda: start_quiz(root),
               font=("Arial", 14), bg="#3498db", fg="white", width=30, pady=15, relief="flat",
               activebackground="#2980b9", activeforeground="white").pack(pady=10)
 
@@ -84,7 +84,7 @@ def show_main_menu(root):
 # Launch app
 if __name__ == "__main__":
     root = tk.Tk()
-    root.title("Mood Detective")
+    root.title("Calm Within")
     root.geometry("700x700")
     root.resizable(False, False)
     show_main_menu(root)
